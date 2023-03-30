@@ -1,0 +1,36 @@
+{
+    "os": "Windows-10-10.0.19041-SP0",
+    "python": "3.7.3rc1",
+    "heartbeatAt": "2022-12-18T13:32:19.046665",
+    "startedAt": "2022-12-18T13:32:18.946751",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "c:/Users/86150/Desktop/yolov5-face/train.py",
+    "codePath": "train.py",
+    "host": "LAPTOP-MV6BC41C",
+    "username": "86150",
+    "executable": "C:\\Users\\86150\\AppData\\Local\\Programs\\Python\\Python37\\python.exe",
+    "cpu_count": 4,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 2419.0,
+        "min": 0.0,
+        "max": 2419.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2419.0,
+            "min": 0.0,
+            "max": 2419.0
+        }
+    ],
+    "disk": {
+        "total": 190.9649772644043,
+        "used": 120.81280136108398
+    },
+    "memory": {
+        "total": 7.804008483886719
+    }
+}
